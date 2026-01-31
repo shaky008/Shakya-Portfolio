@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with Vue.js showcasing my projects, skills, and experience.
 
-🌐 **Live Site:** [ushakya.netlify.app](https://utsav-shakya.netlify.app)
+🌐 **Live Site:** [https://ushakya.netlify.app/](https://utsav-shakya.netlify.app)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite)
